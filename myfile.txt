@@ -1,1 +1,5 @@
-myfiles
+git status
+git log
+git add .
+git commit -am "my first revision"
+git push
